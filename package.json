@@ -1,0 +1,8 @@
+{
+  "name": "drake-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Draké sneaker store on Netlify: static storefront + payment/email/tracking function",
+  "scripts": { "dev": "netlify dev" },
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
